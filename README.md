@@ -22,3 +22,6 @@ Git cheat sheet and branching practice.
 * 'git branch branchName' - create new branch 'branchName'
 * 'git checkout branchName' - switch to branch 'branchName' ie. main or branch
 
+### Remote Commands
+* 'git remote add alias URL' - connect local repo to remote, using name 'alias' for remote repo 'URL'
+* 'git push alias branchName' - push local commits to remote repo 'alias' on branch 'branchName'
