@@ -10,9 +10,13 @@
 
 * 'git status' - show current status of working directory
 * 'git log' - show local commit history
-* 'git log --oneline' - show local commit history, compact 
+* 'git log --oneline' - show local commit history, compact
+* 'git log --pretty' - identical output
+* 'git config -l' - list configuration of local repo
+* 'git config --global -l' - list global configuration
 
 ### Branching Commands
 * 'git branch' - list local branches
 * 'git branch branchName' - create new branch 'branchName'
 * 'git checkout branchName' - switch to branch 'branchName'
+
